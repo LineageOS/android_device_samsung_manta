@@ -16,6 +16,24 @@
       "revId": "490fdf583055908953aca473c257840d1b2b1e37",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdH///Ik\u003d",
+        "filename": "cm.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 4977
+      },
+      "writtenOn": "2013-02-07T19:54:51Z",
+      "side": 1,
+      "message": "I know. I submitted an issue report in JIRA regarding this fact. There are no vector image sources. :(",
+      "parentUuid": "AAAAdH///Iw\u003d",
+      "revId": "490fdf583055908953aca473c257840d1b2b1e37",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
