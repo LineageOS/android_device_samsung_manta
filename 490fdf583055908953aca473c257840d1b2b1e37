@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAdH///Iw\u003d",
+        "filename": "cm.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2013-02-07T19:41:27Z",
+      "side": 1,
+      "message": "There is no bootanimation available for that resolution. I think it\u0027s a good idea to ask the creator (Cameron Behzadpour) to make a version for this resolution because there will follow some tablets with that high resolutions.\n\nOriginal bootanimation commit: http://review.cyanogenmod.org/#/c/21799/",
+      "revId": "490fdf583055908953aca473c257840d1b2b1e37",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
