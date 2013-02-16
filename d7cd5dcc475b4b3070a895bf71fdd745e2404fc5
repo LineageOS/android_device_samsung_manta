@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAdX//+kI\u003d",
+        "filename": "cm.dependencies",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 3589
+      },
+      "writtenOn": "2013-02-16T06:43:39Z",
+      "side": 1,
+      "message": "Isn\u0027t it cm-10.1...... ?",
+      "revId": "d7cd5dcc475b4b3070a895bf71fdd745e2404fc5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
