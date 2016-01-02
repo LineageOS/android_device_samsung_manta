@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fce034c_01aef82d",
+        "filename": "overlay/frameworks/base/packages/SettingsProvider/res/values/defaults.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 7202
+      },
+      "writtenOn": "2016-01-02T15:05:37Z",
+      "side": 1,
+      "message": "Already in vendor_cm by default.\nhttps://github.com/CyanogenMod/android_vendor_cm/blob/cm-13.0/overlay/common/frameworks/base/packages/SettingsProvider/res/values/defaults.xml#L20",
+      "range": {
+        "startLine": 28,
+        "startChar": 4,
+        "endLine": 28,
+        "endChar": 70
+      },
+      "revId": "7001be21b5cebb0d8410cfc7f911f9dbeaca6537",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
