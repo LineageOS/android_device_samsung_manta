@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff2e2bb8_0ee79314",
+        "filename": "device.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 75,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2016-10-29T23:11:47Z",
+      "side": 0,
+      "message": "Umm what?? You are supposed to remove dhcpcd.conf, not hostapd",
+      "revId": "40029acda2b1718a0c7d0f0fb83e3376f2cda44f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
