@@ -3,7 +3,7 @@ TARGET_BOOTANIMATION_HALF_RES := true
 TARGET_SCREEN_HEIGHT := 1600
 TARGET_SCREEN_WIDTH := 2560
 
-# Inherit some common CM stuff.
+# Inherit some common Lineage stuff.
 $(call inherit-product, vendor/cm/config/common_mini_tablet_wifionly.mk)
 
 # Inherit device configuration
@@ -11,7 +11,7 @@ $(call inherit-product, device/samsung/manta/full_manta.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := manta
-PRODUCT_NAME := cm_manta
+PRODUCT_NAME := lineage_manta
 PRODUCT_BRAND := Google
 PRODUCT_MODEL := Nexus 10
 PRODUCT_MANUFACTURER := samsung
