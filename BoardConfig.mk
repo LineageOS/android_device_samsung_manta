@@ -83,6 +83,9 @@ BOARD_HAL_STATIC_LIBRARIES := libhealthd.manta libdumpstate.manta
 BOARD_CHARGER_DISABLE_INIT_BLANK := true
 BOARD_CHARGER_SHOW_PERCENTAGE := true
 
+# Media
+TARGET_OMX_LEGACY_RESCALING := true
+
 # Default card id for USB audio
 BOARD_USB_AUDIO_CARD_ID := 2
 
